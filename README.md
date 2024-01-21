@@ -77,5 +77,7 @@ restaurant?
 12.Top 10 cheapest rating resturant those have northindian food
 
 13.How many resturant have afghan chicken food?
+
 14.How many resturant in bhanshankari
+
 15.Is there any difference between votes of restaurants and accepting and not accepting online orders?
